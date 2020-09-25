@@ -1,0 +1,3 @@
+model_checkpoint_path: "My Behavior-500118.ckpt"
+all_model_checkpoint_paths: "My Behavior-499992.ckpt"
+all_model_checkpoint_paths: "My Behavior-500118.ckpt"
